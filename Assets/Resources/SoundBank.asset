@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c1a36b22dbc5c649ac09bf33caea60c, type: 3}
+  m_Name: SoundBank
+  m_EditorClassIdentifier: 
+  bounceDirt: {fileID: 8300000, guid: 6b91a80d95605f04a8a13de72200c1b7, type: 3}
+  bounceHoney: {fileID: 8300000, guid: 209ccadd8c6e7804386e8cc622a9a35f, type: 3}
+  bounceIce: {fileID: 8300000, guid: 3466fffd78e26f14492f839826eed54c, type: 3}
+  bounceSlime: {fileID: 8300000, guid: 0fff3da01fe0e774cabe25025f8aa44c, type: 3}
+  bounceSpike: {fileID: 8300000, guid: 10c702878dcf5ab43a857db35cc1e6d7, type: 3}
+  bounceWeak: {fileID: 8300000, guid: 23f7e8611618ae941b1062f017c86573, type: 3}
+  iceSlideLoop: {fileID: 8300000, guid: f004fa9d06bdcf8449a9fa22a00550af, type: 3}
+  click: {fileID: 8300000, guid: c82d61ced7492e042be20f8bbd311160, type: 3}
+  launch: {fileID: 8300000, guid: cbdeb2f6420739f45b6130aaee2d3a57, type: 3}
+  star: {fileID: 8300000, guid: e51ac4d38a18df04aa88671ba2fc6eea, type: 3}
+  coin: {fileID: 8300000, guid: 482695918f434ad45a19b3151136141c, type: 3}
+  blackCoin: {fileID: 8300000, guid: 5bd672ed9e2eddc4682fe33ad1c6ab60, type: 3}
+  portal: {fileID: 8300000, guid: 081943ff710b19c4d89c395745be2278, type: 3}
+  crumble: {fileID: 8300000, guid: f1f5259a823c50b43a0ad76f2cc599b6, type: 3}
+  clear: {fileID: 8300000, guid: 206dbb5cc0d972b4aa4dceeca3c75010, type: 3}
+  gameOver: {fileID: 8300000, guid: f651b511f370605488f84df45a62214e, type: 3}
+  volume: 1
+  weakSpeed: 2.5
+  bgm: {fileID: 8300000, guid: 3a6ed4970ff150f4c90931ba179112af, type: 3}
+  bgmVolume: 0.6

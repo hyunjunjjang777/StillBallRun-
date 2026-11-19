@@ -1,0 +1,13 @@
+........................
+......DD..b............H
+......DD..a............H
+U..#..DD..IIIIII^......H
+...#DDDDDDDDDDDDDDDDDD.H
+..U#1.*................H
+...#2.UUUUUUUUUUUUUUUUUU
+U..#...DDDDDDDDDDDDDDDDD
+...#U.U.H.....H*........
+..U#UUU...H...U........@
+...#UUU.......UIIIIIIIII
+B..#U*U.U.....U.........
+####.U..#....#U.........

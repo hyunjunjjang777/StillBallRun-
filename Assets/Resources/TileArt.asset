@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83e3d4ac425b0294ab8ba6c608ca3ab2, type: 3}
+  m_Name: TileArt
+  m_EditorClassIdentifier: 
+  block: {fileID: 21300000, guid: 9528e2a31af86e44590c3f8a00133226, type: 3}
+  spike: {fileID: 5746007016517809035, guid: 403fb657f5ec02c40ad0824b794960b8, type: 3}
+  honey: {fileID: 21300000, guid: 80d559b28d6b17348889bb5f2c911f6c, type: 3}
+  ice: {fileID: 21300000, guid: 0349376047d3f0d42a13e7e36803c473, type: 3}
+  slime: {fileID: 21300000, guid: 46a8070e897cd68478d15e3447e65590, type: 3}
+  superSlime: {fileID: 21300000, guid: b09063c73ad479e439db77040013d658, type: 3}
+  star: {fileID: -760248212612917335, guid: 58f4cd83c0c562947890a1ae84982de5, type: 3}
+  coin: {fileID: 8735710701247832197, guid: f2763d0c1704a3f448e3886c8f232600, type: 3}
+  goal: {fileID: -701963121383793751, guid: 20b0786ad761fd345830f0bc09ae8617, type: 3}
+  ball: {fileID: 3387801042340290004, guid: 320a0b0a4062bc242a51b326be9580d6, type: 3}
+  unstable: {fileID: -1128856850682828503, guid: c94f4fab8d043ef4cb3b8420f29dbb77, type: 3}
+  fan: {fileID: 1352568834183886518, guid: 088711c2464e39a4f8982d6ae66b982e, type: 3}
+  portalStart: {fileID: 0}
+  portalEnd: {fileID: 0}
+  blackCoin: {fileID: 2783167130852348498, guid: edda7ca30cfa93c46b21d6919d48b87e, type: 3}
+  unstableNext:
+  - {fileID: -463972383, guid: c94f4fab8d043ef4cb3b8420f29dbb77, type: 3}
+  - {fileID: 88751613, guid: c94f4fab8d043ef4cb3b8420f29dbb77, type: 3}
+  - {fileID: 1329774587, guid: c94f4fab8d043ef4cb3b8420f29dbb77, type: 3}
+  wind:
+  - {fileID: -2026269219633895243, guid: d1a0b0043b2189d46923714693016d78, type: 3}
+  - {fileID: -97986713, guid: d1a0b0043b2189d46923714693016d78, type: 3}
+  - {fileID: 1701774760, guid: d1a0b0043b2189d46923714693016d78, type: 3}
+  - {fileID: 729851645, guid: d1a0b0043b2189d46923714693016d78, type: 3}
